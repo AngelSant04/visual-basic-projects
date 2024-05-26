@@ -1,0 +1,10 @@
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\bin\Debug\Libreria.dll
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\bin\Debug\Libreria.pdb
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\bin\Debug\Libreria.xml
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\obj\Debug\Libreria.vbprojAssemblyReference.cache
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\obj\Debug\Libreria.Resources.resources
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\obj\Debug\Libreria.vbproj.GenerateResource.cache
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\obj\Debug\Libreria.vbproj.CoreCompileInputs.cache
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\obj\Debug\Libreria.dll
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\obj\Debug\Libreria.xml
+C:\UNPRG\PROGRA III\webEjemplo\Libreria\obj\Debug\Libreria.pdb

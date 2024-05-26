@@ -1,0 +1,10 @@
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\obj\Debug\Capa_Entidades.vbprojAssemblyReference.cache
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\obj\Debug\Capa_Entidades.Resources.resources
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.GenerateResource.cache
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.CoreCompileInputs.cache
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\obj\Debug\Capa_Entidades.xml
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Entidades\obj\Debug\Capa_Entidades.pdb

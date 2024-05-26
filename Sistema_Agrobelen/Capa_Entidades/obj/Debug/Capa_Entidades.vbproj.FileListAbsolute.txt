@@ -1,0 +1,50 @@
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbprojAssemblyReference.cache
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.Resources.resources
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.GenerateResource.cache
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.CoreCompileInputs.cache
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.xml
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbprojAssemblyReference.cache
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.Resources.resources
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.GenerateResource.cache
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.CoreCompileInputs.cache
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.xml
+C:\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbprojAssemblyReference.cache
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.Resources.resources
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.GenerateResource.cache
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.CoreCompileInputs.cache
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.xml
+D:\CURSOS EPICI\CICLO 2020 II\PROGRA II\PROYECTOS\REPOSITORIOS ANGEL\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbprojAssemblyReference.cache
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.Resources.resources
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.GenerateResource.cache
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.xml
+C:\Users\USER\Downloads\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\bin\Debug\Capa_Entidades.xml
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.Resources.resources
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.xml
+C:\Users\User\Desktop\Documentos Angel\UNPRG\PROGRA III\Sistema_Agrobelen\Capa_Entidades\obj\Debug\Capa_Entidades.pdb

@@ -1,0 +1,15 @@
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\bin\Debug\Proyecto_Principal.exe.config
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\bin\Debug\Proyecto_Principal.exe
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\bin\Debug\Proyecto_Principal.pdb
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\bin\Debug\Proyecto_Principal.xml
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\bin\Debug\Clases.dll
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\bin\Debug\Clases.pdb
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\bin\Debug\Clases.xml
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbprojAssemblyReference.cache
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.Resources.resources
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbproj.GenerateResource.cache
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbproj.CoreCompileInputs.cache
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbproj.CopyComplete
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.exe
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.xml
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Proyecto_Principal\obj\Debug\Proyecto_Principal.pdb

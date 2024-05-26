@@ -1,0 +1,10 @@
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\bin\Debug\Clases.dll
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\bin\Debug\Clases.pdb
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\bin\Debug\Clases.xml
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\obj\Debug\Clases.vbprojAssemblyReference.cache
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\obj\Debug\Clases.Resources.resources
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\obj\Debug\Clases.vbproj.GenerateResource.cache
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\obj\Debug\Clases.vbproj.CoreCompileInputs.cache
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\obj\Debug\Clases.dll
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\obj\Debug\Clases.xml
+D:\PROGRA III\Lab_01_Santamaria_Herrera_Ejercicio_01\Clases\obj\Debug\Clases.pdb

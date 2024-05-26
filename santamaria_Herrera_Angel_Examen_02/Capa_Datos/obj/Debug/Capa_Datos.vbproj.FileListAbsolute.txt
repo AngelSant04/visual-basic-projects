@@ -1,0 +1,14 @@
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\bin\Debug\Capa_Datos.xml
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\bin\Debug\Capa_Entidades.dll
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\bin\Debug\Capa_Entidades.xml
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.vbprojAssemblyReference.cache
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.Resources.resources
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.vbproj.GenerateResource.cache
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.vbproj.CoreCompileInputs.cache
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.vbproj.CopyComplete
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.xml
+C:\UNPRG\PROGRA III\santamaria_Herrera_Angel_Examen_02\Capa_Datos\obj\Debug\Capa_Datos.pdb

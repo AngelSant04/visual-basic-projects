@@ -1,0 +1,14 @@
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\bin\Debug\CapaDatos.dll
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\bin\Debug\CapaDatos.xml
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.dll
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.xml
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\bin\Debug\CapaEntidades.xml
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete

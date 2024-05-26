@@ -1,0 +1,20 @@
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.vbprojAssemblyReference.cache
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.Resources.resources
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.vbproj.GenerateResource.cache
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.vbproj.CoreCompileInputs.cache
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\bin\Debug\Clases.dll
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\bin\Debug\Clases.pdb
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\bin\Debug\Clases.xml
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.dll
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.xml
+D:\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.pdb
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\bin\Debug\Clases.dll
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\bin\Debug\Clases.pdb
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\bin\Debug\Clases.xml
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.vbprojAssemblyReference.cache
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.Resources.resources
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.vbproj.GenerateResource.cache
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.dll
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.xml
+C:\Users\USER\Desktop\Documentos Angel\UNPRG\PROGRA III\Lab01_Santamaria_Herrera_Ejercicio_02\Clases\obj\Debug\Clases.pdb

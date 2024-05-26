@@ -1,0 +1,15 @@
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbprojAssemblyReference.cache
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.Resources.resources
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbproj.GenerateResource.cache
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbproj.CoreCompileInputs.cache
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\bin\Debug\Proyecto_Principal.exe.config
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\bin\Debug\Proyecto_Principal.exe
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\bin\Debug\Proyecto_Principal.pdb
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\bin\Debug\Proyecto_Principal.xml
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\bin\Debug\Libreria_Clases.dll
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\bin\Debug\Libreria_Clases.pdb
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\bin\Debug\Libreria_Clases.xml
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.vbproj.CopyComplete
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.exe
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.xml
+D:\PROGRA III\Proyecto_Cuentas_Practica\Proyecto_Principal\obj\Debug\Proyecto_Principal.pdb

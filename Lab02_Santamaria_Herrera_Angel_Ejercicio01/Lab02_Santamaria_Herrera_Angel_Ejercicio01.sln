@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lab02_Santamaria_Herrera_Angel_Ejercicio_01", "Lab02_Santamaria_Herrera_Angel_Ejercicio_01\Lab02_Santamaria_Herrera_Angel_Ejercicio_01.vbproj", "{F7513FD4-C53A-427E-A2BE-D4D8838A9E54}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Libreria_Clases", "Libreria_Clases\Libreria_Clases.vbproj", "{1ABC9145-5448-4019-9027-9B17786D81E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7513FD4-C53A-427E-A2BE-D4D8838A9E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7513FD4-C53A-427E-A2BE-D4D8838A9E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7513FD4-C53A-427E-A2BE-D4D8838A9E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7513FD4-C53A-427E-A2BE-D4D8838A9E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABC9145-5448-4019-9027-9B17786D81E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABC9145-5448-4019-9027-9B17786D81E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABC9145-5448-4019-9027-9B17786D81E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABC9145-5448-4019-9027-9B17786D81E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14B2FE51-5C59-47C4-A689-1AEF4D2BA909}
+	EndGlobalSection
+EndGlobal

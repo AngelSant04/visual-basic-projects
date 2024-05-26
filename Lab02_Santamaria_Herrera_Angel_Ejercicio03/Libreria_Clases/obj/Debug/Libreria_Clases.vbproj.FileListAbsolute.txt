@@ -1,0 +1,10 @@
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\bin\Debug\Libreria_Clases.dll
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\bin\Debug\Libreria_Clases.pdb
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\bin\Debug\Libreria_Clases.xml
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\obj\Debug\Libreria_Clases.vbprojAssemblyReference.cache
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\obj\Debug\Libreria_Clases.Resources.resources
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\obj\Debug\Libreria_Clases.vbproj.GenerateResource.cache
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\obj\Debug\Libreria_Clases.vbproj.CoreCompileInputs.cache
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\obj\Debug\Libreria_Clases.dll
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\obj\Debug\Libreria_Clases.xml
+D:\PROGRA III\Lab02_Santamaria_Herrera_Angel_Ejercicio03\Libreria_Clases\obj\Debug\Libreria_Clases.pdb

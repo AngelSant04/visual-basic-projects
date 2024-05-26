@@ -1,0 +1,10 @@
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\bin\Debug\CapaEntidades.xml
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\obj\Debug\CapaEntidades.Resources.resources
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\obj\Debug\CapaEntidades.vbproj.GenerateResource.cache
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\obj\Debug\CapaEntidades.vbproj.CoreCompileInputs.cache
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\obj\Debug\CapaEntidades.xml
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\UNPRG\PROGRA III\07_ADO_SQL_Server\CapaEntidades\obj\Debug\CapaEntidades.vbprojAssemblyReference.cache
